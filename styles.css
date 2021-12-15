@@ -261,3 +261,17 @@ body {
     color: var(--secondary-text-color);
 }
 
+.additional-info__interests {
+    margin-bottom: 20px;
+}
+
+.additional-info__interests-header {
+    color: var(--secondary-text-color);
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.additional-info__interests-item {
+    color: var(--secondary-text-color);
+}
+
