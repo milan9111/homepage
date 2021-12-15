@@ -7,7 +7,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
-
     --primary-text-color: #181820;
     --secondary-text-color: #5c5c62;
     --durability-text-color: #6a737d9c;
@@ -259,6 +258,20 @@ body {
 }
 
 .additional-info__languages-item {
+    color: var(--secondary-text-color);
+}
+
+.additional-info__interests {
+    margin-bottom: 20px;
+}
+
+.additional-info__interests-header {
+    color: var(--secondary-text-color);
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.additional-info__interests-item {
     color: var(--secondary-text-color);
 }
 
